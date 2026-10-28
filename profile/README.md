@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/colorado-branding/main/banners/vive-tu-historia.png" width="100%" alt="Colorado Roleplay · Vive tu historia" />
 </p>
 
-<p align="center"><strong>Los Santos, con identidad propia.</strong></p>
-<p align="center">Sistemas de juego, interfaces y herramientas para Colorado Roleplay.</p>
+<p align="center"><strong>Servidor de Roleplay.</strong></p>
+<p align="center">Organización Colorado Roleplay enfocados en tu futuro.</p>
 
 <p align="center">
   <a href="https://github.com/Colorado-Roleplay-Company/e-hud-coloradorp-showcase">HUD</a> ·
