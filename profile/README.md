@@ -22,8 +22,8 @@ El trabajo abarca la interfaz que usa el jugador, los paneles del equipo y los s
     <td width="50%"><h3>Bot y panel de Discord</h3></td>
   </tr>
   <tr>
-    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/e-hud-coloradorp-showcase"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/hud-editor.png" width="100%" alt="Editor del HUD con paletas, tipografías, acabados y elementos configurables" /></a></td>
-    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/colorado-discord-bot-panel"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/discord-panel.png" width="100%" alt="Panel de Discord con estadísticas del servidor" /></a></td>
+    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/e-hud-coloradorp-showcase"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/hud-editor-tarjeta.png" width="100%" alt="Editor del HUD con paletas, tipografías, acabados y elementos configurables" /></a></td>
+    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/colorado-discord-bot-panel"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/discord-panel-tarjeta.png" width="100%" alt="Panel de Discord con estadísticas del servidor" /></a></td>
   </tr>
   <tr>
     <td width="50%" valign="top">Indicadores del personaje, minimapa, ubicación y conducción. Editor para mover y redimensionar elementos, cambiar colores y configurar su estilo.</td>
