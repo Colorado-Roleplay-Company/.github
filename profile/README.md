@@ -43,6 +43,10 @@ El trabajo abarca la interfaz que usa el jugador, los paneles del equipo y los s
 
 [e-inicio](https://github.com/Colorado-Roleplay-Company/e-inicio-coloradorp) reúne el kit inicial, los códigos de creador, los destinos GPS y los trabajos recomendados. Su panel permite configurar artículos, dinero y vehículos, consultar canjes y administrar los límites de cada código.
 
+### Suspensión neumática
+
+[e-subirauto](https://github.com/Colorado-Roleplay-Company/e-subirauto-Colorado-Roleplay) permite ajustar la altura, los movimientos y las luces, de forma individual o sincronizada entre vehículos.
+
 ### Normativas y editor de contenido
 
 [Normativas](https://nrsclrdrp.em4nu3l69dll.dev) organiza el contenido de la comunidad por categorías y páginas. El equipo dispone de un editor de secciones, ejemplos e imágenes, permisos por rol, historial de cambios y respaldos.
