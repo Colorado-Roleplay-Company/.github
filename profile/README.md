@@ -22,7 +22,7 @@ El trabajo abarca la interfaz que usa el jugador, los paneles del equipo y los s
     <td width="50%"><h3>Bot y panel de Discord</h3></td>
   </tr>
   <tr>
-    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/e-hud-coloradorp-showcase"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/hud-editor-tarjeta.png" width="100%" alt="Editor del HUD con paletas, tipografías, acabados y elementos configurables" /></a></td>
+    <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/e-hud-coloradorp-showcase"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/hud-editor-tarjeta-20261030.png" width="100%" alt="Editor del HUD con paletas, tipografías, acabados y elementos configurables" /></a></td>
     <td width="50%" valign="middle"><a href="https://github.com/Colorado-Roleplay-Company/colorado-discord-bot-panel"><img src="https://raw.githubusercontent.com/Colorado-Roleplay-Company/.github/main/profile/imagenes/discord-panel-tarjeta.png" width="100%" alt="Panel de Discord con estadísticas del servidor" /></a></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ El trabajo abarca la interfaz que usa el jugador, los paneles del equipo y los s
     <td width="50%" valign="top">Bienvenidas, embeds, autoroles, soporte, registros, moderación, salas temporales y copias de seguridad desde un panel web.</td>
   </tr>
   <tr>
-    <td width="50%"><strong>40 paletas · 30 fuentes · 18 acabados</strong></td>
+    <td width="50%"><strong>Paletas de color · 60 fuentes · 18 acabados</strong></td>
     <td width="50%"><strong>Node.js · Express · Discord.js · SQLite</strong></td>
   </tr>
   <tr>
